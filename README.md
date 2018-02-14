@@ -14,8 +14,7 @@ We will perform a statistical analysis to establish whether race has a significa
     What are the null and alternate hypotheses?
     Compute margin of error, confidence interval, and p-value.
     Write a story describing the statistical significance in the context or the original problem.
-    Does the analysis mean that race/name is the most important factor in callback success? Why or why not? If not, how would you amend your analysis?
-
+    Does the analysis mean that race/name is the most important factor in callback success? Why or why not? 
 ## Resources
 
     Experiment information and data source: http://www.povertyactionlab.org/evaluation/discrimination-job-market-united-states
